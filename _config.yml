@@ -13,29 +13,6 @@ nav4: "Teaching"
 nav5: "Publications"
 nav6: "Current Research"
 
-
-# Section1
-sec1: "About Me"
-sec2: "Third-year PhD student at University of Pennsylvania."
-sec3: "My area of study is Natural Language Processing, with focus in Machine Translation."
-
-# Section 2
-sec4: "Education"
-sec5: "I have received education in Computer Science."
-
-sec31: "Work Experience"
-
-# Section 3
-sec41: "Teaching"
-sec7: "I have extensive and high quality work experience in software engineering."
-sec8: "I have some teaching experience."
-
-sec51: "Publications"
-
-
-sec61: "Current Research"
-
-
 # Social Links
 facebook: gao.jie.7737
 #twitter:  username

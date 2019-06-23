@@ -6,21 +6,21 @@ work:  Ph.D. Candidate <br /> University of Pennsylvania
 year: 2019
 
 # Navigation
-nav1: "About"
+nav1: "About Me"
 nav2: "Education"
-nav3: "Teaching"
-nav4: "Publications"
-nav5: "Current Research"
-nav6: "Work Experience"
+nav3: "Work Experience"
+nav4: "Teaching"
+nav5: "Publications"
+nav6: "Current Research"
 
 
 # Section1
-sec1: "Read Jekyll"
+sec1: "About Me"
 sec2: "Just an incredibly simple responsive template for Jekyll."
 sec3: "Faucibus sed lobortis aliquam lorem blandit. Lorem eu nunc metus col. Commodo id in arcu ante lorem ipsum sed accumsan erat praesent faucibus commodo ac mi lacus. Adipiscing mi ac commodo. Vis aliquet tortor ultricies non ante erat nunc integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum."
 
 # Section 2
-sec4: "Things I Can Do"
+sec4: "Education"
 sec5: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer lorem ipsum dolor sit amet."
 icon1: "fas fa-code"
 icont1: "Write all the code"
@@ -35,8 +35,10 @@ icont5: "Lightning bolt"
 icon6: "fa-users"
 icont6: "Shadow clone technique"
 
+sec31: "Work Experience"
+
 # Section 3
-sec6: "A Few Accomplishments"
+sec41: "Teaching"
 sec7: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer. Integer eu ante ornare amet commetus."
 sec8: "Possibly broke spacetime"
 sec9: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
@@ -45,21 +47,28 @@ sec11: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae
 sec12: "Snapped dark matter in the wild"
 sec13: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet."
 
+
+sec51: "Publications"
+
+
+sec61: "Current Research"
+
+
 # Social Links
-facebook: username
-twitter:  username
-#google: username
+facebook: gao.jie.7737
+#twitter:  username
+#google: jiegao1991@gmail.com
 #instagram: username
 #pinterest: username
 #linkedin: username
 #youtube: username
 #spotify: username
 #lastfm: username
-github: username
+#github: betapoc
 #stackoverflow: username
 #quora: username
 #reddit: username
 #medium: username
 #vimeo: username
-keybase: username
+#keybase: username
 email: jiegao@seas.upenn.edu

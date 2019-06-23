@@ -1,8 +1,8 @@
 #Site configuration
-title: Jie Gao - UPenn PhD Candidate
+title: Jie Gao - UPenn PhD Student
 name:  Jie Gao
 author: Jie Gao
-work:  Ph.D. Candidate <br /> University of Pennsylvania
+work:  Ph.D. Student<br/>University of Pennsylvania
 year: 2019
 
 # Navigation
@@ -16,24 +16,12 @@ nav6: "Current Research"
 
 # Section1
 sec1: "About Me"
-sec2: "Just an incredibly simple responsive template for Jekyll."
-sec3: "Faucibus sed lobortis aliquam lorem blandit. Lorem eu nunc metus col. Commodo id in arcu ante lorem ipsum sed accumsan erat praesent faucibus commodo ac mi lacus. Adipiscing mi ac commodo. Vis aliquet tortor ultricies non ante erat nunc integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum."
+sec2: "Third-year PhD student at University of Pennsylvania."
+sec3: "My area of study is Natural Language Processing, with focus in Machine Translation."
 
 # Section 2
 sec4: "Education"
-sec5: "Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer non. Adipiscing cubilia elementum integer lorem ipsum dolor sit amet."
-icon1: "fas fa-code"
-icont1: "Write all the code"
-icon2: "fa-cubes"
-icont2: "Stack small boxes"
-icon3: "fa-book"
-icont3: "Read books and stuff"
-icon4: "fa-coffee"
-icont4: "Drink much coffee"
-icon5: "fa-bolt"
-icont5: "Lightning bolt"
-icon6: "fa-users"
-icont6: "Shadow clone technique"
+sec5: "I have received education in Computer Science."
 
 sec31: "Work Experience"
 
@@ -72,3 +60,4 @@ facebook: gao.jie.7737
 #vimeo: username
 #keybase: username
 email: jiegao@seas.upenn.edu
+address: 3401 Walnut St Rm 464C<br/>Philadelphia PA, 19104

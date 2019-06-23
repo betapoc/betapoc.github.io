@@ -20,6 +20,10 @@
 	margin: 0;
 }
 
+.list-section hr.alone {
+	margin: 12px 0;
+}
+
 .list-section .subtitle {
 	margin: 8px 0;
 	font-weight: bold;

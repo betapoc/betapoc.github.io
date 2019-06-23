@@ -7,20 +7,20 @@
 	Free for personal and commercial use under the CCA 3.0 license
 */
 
-.education {
+.list-section {
 	margin-bottom: 12px;
 }
 
-.education h4 {
+.list-section h4 {
 	font-size: 18px;
 	font-weight: bold;
 }
 
-.education hr {
+.list-section hr {
 	margin: 0;
 }
 
-.education .degree {
+.list-section .subtitle {
 	margin: 8px 0;
 	font-weight: bold;
 }
